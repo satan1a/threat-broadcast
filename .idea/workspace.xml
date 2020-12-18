@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="219fb670-bc5b-4598-9afd-91bbae37a942" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recv/qq_group.dat" beforeDir="false" afterPath="$PROJECT_DIR$/recv/qq_group.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tpl/html.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/tpl/html.tpl" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -496,7 +495,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1587802165578</updated>
-      <workItem from="1608262345703" duration="1893000" />
+      <workItem from="1608262345703" duration="3308000" />
+      <workItem from="1608274178116" duration="262000" />
     </task>
     <servers />
   </component>
@@ -548,9 +548,6 @@
     <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
       <collection />
     </option>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/recv/mail_work.dat">
