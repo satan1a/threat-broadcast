@@ -6,7 +6,7 @@
   <meta name="robots" content="noarchive" />
   <meta name="author" content="EXP: www.exp-blog.com" />
   <link rel="stylesheet" type="text/css" href="./css/page.css" />
-  <title>Threat-Broadcast</title>
+  <title>Vuln-Broadcast</title>
  </head>
 
  <body class="html">
